@@ -212,7 +212,7 @@ I programmatori e le <i>software house</i> che li realizzano sono tutt'altro che
 			<!-- Informazioni (contact) -->
 			<section id="contact">
 				<div class="inner">
-					<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=7.656851112842559%2C45.06364732462501%2C7.6613304018974295%2C45.065295516000916&amp;layer=mapnik&amp;marker=45.064471426252865%2C7.659090757369995"></iframe>
+					<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=7.656851112842559%2C45.06364732462501%2C7.6613304018974295%2C45.065295516000916&amp;layer=mapnik&amp;marker=45.064471426252865%2C7.659090757369995"></iframe>
 					<section class="split">
 						<section>
 							<div class="contact-method">
